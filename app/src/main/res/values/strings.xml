@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidPopupMenuWithIcon</string>
+
+    <item name="menuGroup" type="id"/>
+    <item name="menu1" type="id"/>
+    <item name="menu2" type="id"/>
+    <item name="menu3" type="id"/>
+</resources>
